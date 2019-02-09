@@ -4,7 +4,6 @@ This repository contains the homeworks of "Foundations of Distributed and Large 
 
 ## Proximal denoising
 
-
-
+This first homework consists on denoising an image by solving an optimization problem by formulating it with proximity operators.
 
 
